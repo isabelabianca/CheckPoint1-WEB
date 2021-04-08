@@ -1,0 +1,32 @@
+        
+        .text-format{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        
+        a {
+            text-decoration: none;
+        }
+
+        header li {
+            list-style-type: none;
+        }
+
+        #cerejas {
+            float: right;
+        }
+
+        #folha {
+            float: left;
+        }
+
+        #cachoeira {
+            float:left;
+        }
+
+        #cedros {
+            float: right;
+        }
+
+        #time {
+            float:left;
+        }
