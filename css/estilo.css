@@ -13,20 +13,25 @@
 
         #cerejas {
             float: right;
+            margin-left: 10px;
         }
 
         #folha {
             float: left;
+            margin-right: 10px;
         }
 
         #cachoeira {
             float:left;
+            margin-right: 10px;
         }
 
         #cedros {
             float: right;
+            margin-left: 10px;
         }
 
         #time {
             float:left;
+            margin-right: 10px;
         }
